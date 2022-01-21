@@ -64,8 +64,8 @@ Bakery App
 
 ## Checkout List
 
-* Checkout list shows the 
-1. Quantitya and list of the order item 
+* Checkout list shows
+1. Quantity and list of the order item 
 2. Total Price of the order to be paid
 
 # Requirements to run the app
