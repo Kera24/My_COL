@@ -74,7 +74,7 @@ Bakery App
 
 ### Operating System : Windows/Linux
 
-### Web Technologies : Django(2.0),Html,Css,Javascript
+### Web Technologies : Django(2.0.8),Html,Css,Javascript
 
 ### Database : Sqlite
 
